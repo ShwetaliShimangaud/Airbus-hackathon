@@ -1,16 +1,16 @@
-# Co-Web 19 : The goto website for covid-19 info
-## Installation:
-* Make sure you have python 3 installed on your PC.
+# CoVid Bot
+## Setup Installation:
+* Make sure to have python 3 installed on your PC.
 * Now we need to install the essentials using the command :
 ```
 pip install django
 pip install django-crispy-forms
 ```
 
-## Copying the files
+## Getting the files
 * Then we will copy all of the files in the same order in a folder.
 
-## Running the server
+## Starting th server
 * then open you command prompt and go to the directory of this folder 
 * for example if you have saved this folder on desktop then go to
 ```
@@ -26,5 +26,5 @@ python3 manage.py runserver
 ```
 http://localhost:8000/
 ```
-* Now surf the website as you may like.
+
 
